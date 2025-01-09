@@ -40,6 +40,14 @@ local currentPatchMaps = {
 	[112] = true, -- Grim Batol (TWW S1)
 	[113] = true, -- Ara-Kara,City of Echoes (TWW S1)
 	[114] = true, -- City of Threads (TWW S1)
+	[115] = true, -- Priory of the Sacred Flame (TWW S2)
+	[116] = true, -- Cinderbrew Meadery (TWW S2)
+	[117] = true, -- Darkflame Cleft (TWW S2)
+	[118] = true, -- TheRookery (TWW S2)
+	[119] = true, -- OperationFloodgate (TWW S2)
+	[120] = true, -- The MOTHERLODE!! (TWW S2)
+	[121] = true, -- Theater of Pain (TWW S2)
+	[122] = true -- MechagonWorkshop (TWW S2)
 }
 
 -- NPC Blacklist
